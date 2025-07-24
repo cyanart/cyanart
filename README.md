@@ -1,4 +1,11 @@
-## Hi there 👋
+🎨 Hi, I’m a developer who loves art.
+I enjoy turning creative ideas into code and building tools that spark joy or curiosity.
+
+One of my latest projects is a meme generator website — where humor meets tech:
+👉 [meme-generator.org](https://www.meme-generator.org/)
+
+Let’s create something meaningful and fun together.
+
 
 <!--
 **cyanart/cyanart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
